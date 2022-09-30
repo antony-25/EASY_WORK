@@ -11,18 +11,12 @@ Dra. Lenis Rossi Wong Portillo.
 
 # Integrantes
 
-Perez Sotomayor, Alejandro Nicolás
-
-Wong Gómez, Carlos Augusto
-
-Cumpa Pareja, Santiago Jesús
-
-Tambillo Borja, Mauro Junior
-
-Mauricio Montes, Jorge Luis
-
-Diaz Pillaca, Sebastian Alexis
-
-Saenz Cuevas,Leonardo Rodolfo	
-
-Diaz Pinedo ,Jordan Antony	
+|    Apellidos     |       Nombres      |
+| ---------------- | ------------------ |
+| Perez Sotomayor  | Alejandro Nicolás  |
+| Wong Gómez       | Carlos Augusto     |
+| Cumpa Pareja     | Santiago Jesús     |
+| Tambillo Borja   | Mauro Junior       |
+| Mauricio Montes  | Sebastian Alexis   |
+| Saenz Cuevas     | Leonardo Rodolfo	  |
+| Diaz Pinedo      | Jordan Antony	    |
